@@ -1,0 +1,12 @@
+2014-11-16 16:50:19.461 Emot app[27170:70b] Multi-tasking -> Device: YES, App: YES
+2014-11-16 16:50:19.496 Emot app[27170:70b] Unlimited access to network resources
+2014-11-16 16:50:19.501 Emot app[27170:70b] Fix applied for database locations?: YES
+2014-11-16 16:50:19.502 Emot app[27170:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-16 16:50:19.968 Emot app[27170:70b] Resetting plugins due to page load.
+2014-11-16 16:50:20.227 Emot app[27170:70b] Finished load of: file:///Users/mac/Library/Developer/CoreSimulator/Devices/3A683843-F497-4ED6-A4B2-7D3BC2F22467/data/Applications/D91E1E53-53CB-4D09-835C-51AED98176D1/Emot%20app.app/www/index.html

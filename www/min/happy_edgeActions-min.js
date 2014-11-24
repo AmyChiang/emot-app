@@ -1,0 +1,1 @@
+!function($,n,o){var e=n.Composition,i=n.Symbol;!function(n){i.bindElementAction(o,n,"${_home}","click",function(n,o){window.open("index.html","_self")})}("stage")}(jQuery,AdobeEdge,"EDGE-33386576");

@@ -1,0 +1,35 @@
+html,form{
+	height: 100%;
+	padding: 0;
+	
+}
+#deviceready{
+	background-image: url('../img/home_bg.png');
+	background-color: white;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	background-position: center top;
+	background-attachment: initial;
+	background-size: cover;
+	height: 100%;
+}
+.leftbtn{
+	float: left;
+	position: fixed;
+  	top: 50%;
+ 	left: 10%;
+ 	transform: translate(-50%, -50%);
+}
+.rightbtn{
+	float: right;
+	position: fixed;
+  	top: 50%;
+  	left: 90%;
+  	transform: translate(-50%, -50%);
+}
+.settingbtn{
+	position: fixed;
+	top: 3%;
+	left: 3%;
+}

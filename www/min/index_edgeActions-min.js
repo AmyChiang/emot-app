@@ -1,0 +1,1 @@
+!function($,o,i){var n=o.Composition,e=o.Symbol;!function(o){e.bindTriggerAction(i,o,"Default Timeline",4212,function(o,i){o.play("loop")})}("stage")}(jQuery,AdobeEdge,"EDGE-114927073");
